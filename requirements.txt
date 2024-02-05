@@ -30,6 +30,9 @@ pandas==1.5.1
     # via
     #   -r requirements.in
     #   seaborn
+pip install -r requirements.txt
+python -m pip install seaborn
+python -m pip install seaborn==0.12.1
 pip install seaborn
 pillow==9.3.0
     # via matplotlib
