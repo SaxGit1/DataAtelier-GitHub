@@ -4,6 +4,7 @@ Created on Tue Jul 18 14:57:06 2023
 
 @author: PC.054
 """
+pip install seaborn
 
 import pandas as pd 
 import numpy as np 
